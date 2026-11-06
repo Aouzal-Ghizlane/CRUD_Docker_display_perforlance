@@ -1,4 +1,5 @@
 ## Technologies
+![Ubuntu](https://img.shields.io/badge/Ubuntu-EE4C2C?logo=ubuntu&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
